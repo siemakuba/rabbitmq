@@ -10,7 +10,7 @@ na podstawie: [http://www.rabbitmq.com/install-homebrew.html](http://www.rabbitm
 ## Przygotowanie środowiska
 #### Klonujemy repozytorium, odpalamy bundlera
 
-    git clone
+    git clone git@github.com:siemakuba/rabbitmq.git
     bundle install
 
 
